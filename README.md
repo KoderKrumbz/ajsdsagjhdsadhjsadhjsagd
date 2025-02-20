@@ -19,6 +19,13 @@
 - Investing more time into actually being not lazy (´=  ̫=`)
 ---
 
+### **Current Projects:**
+
+<p>As Of 21/02/25 I currently have no projects working on. Although I have a list of things that I would like to work on.</p>
+
+- Polishing and Adding more features on SIPAC (a dumb project created for academic research)
+- Creating an application from scratch using Kotlin as the language, with minor or zero help from ChatGPT (this AI coded my app lel, I merely compiled and polished it to my preferences)
+- Learning the basic front-end programming languages
 ---
 
 ### 📞 **Contact me :D**
